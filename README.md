@@ -1,0 +1,2 @@
+# RpcUpdater
+Discord RichPresence Updater
