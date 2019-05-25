@@ -29,4 +29,4 @@ Command line arguments:
 
 Example with `RpcUpdater.exe --app-id 580402365937483796 --details "A problem has been detected and Windows has been shut down to prevent damage to your computer." --large-image bsod`:
 
-![image](https://user-images.githubusercontent.com/4542110/58374539-4a23b780-7f40-11e9-892a-b7a49ba2e562.png)sercontent.com/4542110/58374539-4a23b780-7f40-11e9-892a-b7a49ba2e562.png)
+![image](https://user-images.githubusercontent.com/4542110/58374539-4a23b780-7f40-11e9-892a-b7a49ba2e562.png)
